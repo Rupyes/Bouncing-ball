@@ -1,6 +1,7 @@
 import turtle
 import random
 
+# windows
 
 window = turtle.Screen()
 window.bgcolor('Black')
@@ -69,4 +70,3 @@ while True:
             ball.sety(-335)
             ball.dy *= -1
             ball.da *= -1
-
